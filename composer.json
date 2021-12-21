@@ -1,0 +1,15 @@
+{
+    "name": "righthookstudio/git-push",
+    "type": "wordpress-plugin",
+    "description": "Push updates such as plugin updates to a version control system.",
+    "authors": [
+      {
+        "name": "Luke Paoloni",
+        "email": "luke@righthookstudio.co.uk"
+      }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "czproject/git-php": "dev-master"
+    }
+}
